@@ -21,7 +21,9 @@ Para acceder a la GitHub page: **[AQUÍ](https://ull-esit-inf-dsi-2021.github.io
    * Abrir el VS y pulsar la combinación **Ctrl * Shift * P**.
    * Tecleamos **ssh** y hacemos clic en **Connect to Host**.
 
-* Se nos iniciará una nueva ventana de VS, gracias a la conexión vía SSH que hemos realizado. A continuación, abrimos una nueva terminal en el VS, y comprobamos el nombre del host:
+   **NOTA:** Cabe destacar, que para que funcione debemos de haber realizado correctamente la configuración de los ficheros pertinentes tanto en la ML como en la MV que se vió en la **[práctica 1](https://ull-esit-inf-dsi-2021.github.io/ull-esit-inf-dsi-20-21-prct01-iaas-alu0101205908/)** 
+
+* Se nos iniciará una nueva ventana de VS (gracias a la conexión vía SSH que hemos realizado). A continuación, abrimos una nueva terminal en el VS, y comprobamos que el nombre del host se corresponde con el nombre de nuestra máquina (***iaas-dsi16***):
 
 ![Hostname][Hostname]
 
