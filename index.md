@@ -37,5 +37,12 @@ Para acceder a la GitHub page: **[AQUÍ](https://ull-esit-inf-dsi-2021.github.io
 
 ![npm][npm]
 
+* Por otra parte, para empezar con nuestro primer proyecto, crearemos un nuevo directorio (), y dentro de él, ejecutamos el siguiente comando:
+
+   * **Para crear el fichero package.json (establecer dependencias de desarrollo y ejecución):** npm init --yes
+
+![npm init][npmInit]
+
 [Hostname]: images/hostname.JPG "Hostname"
 [npm]: images/npm.JPG "npm"
+[npmInit]: images/npmInit.JPG "npm init"
