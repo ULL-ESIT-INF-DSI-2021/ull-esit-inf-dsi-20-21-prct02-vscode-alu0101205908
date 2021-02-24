@@ -37,12 +37,19 @@ Para acceder a la GitHub page: **[AQUÍ](https://ull-esit-inf-dsi-2021.github.io
 
 ![npm][npm]
 
-* Por otra parte, para empezar con nuestro primer proyecto, crearemos un nuevo directorio (), y dentro de él, ejecutamos el siguiente comando:
+* Por otra parte, para empezar con nuestro primer proyecto, crearemos un nuevo directorio (*hello-world*), y dentro de él, ejecutamos el siguiente comando:
 
    * **Para crear el fichero package.json (establecer dependencias de desarrollo y ejecución):** npm init --yes
 
 ![npm init][npmInit]
 
+* Una vez realizado lo anterior, vamos a abrir nuestra carpeta (directorio *hello-world*) en el VS, haciendo clic en **File** --> **Open Folder** --> **hello-world**. Además, vamos a añadir el directorio a un espacio de trabajo, haciendo clic en **File** --> **Add Folder to Workspace** --> **hello-world** y para guardarlo, hacemos clic en **File** --> **Save Workspace As** y el nombre que le queramos poner al espacio de trabajo.
+
+* A continuación, desde la terminal de VS y en el directorio *hello-world*, crearemos el fichero **tsconfig.json**, donde se especificaran las opciones de nuestro compilador de TypeScript. En dicho fichero, añadimos las siguientes líneas.
+
+![Configuración compilador TS][tsconfig]
+
 [Hostname]: images/hostname.JPG "Hostname"
 [npm]: images/npm.JPG "npm"
 [npmInit]: images/npmInit.JPG "npm init"
+[tsconfig]: images/tsconfig.JPG "Configuración compilador TS"
