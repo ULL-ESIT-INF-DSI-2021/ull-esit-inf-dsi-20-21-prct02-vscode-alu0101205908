@@ -30,10 +30,10 @@ Para acceder a la GitHub page: **[AQUÍ](https://ull-esit-inf-dsi-2021.github.io
 
 ## Primer proyecto en TypeScript: “Hola Mundo”:
 
-* A continuación vamos a realizar nuestro primer mini-proyecto en TypeScript. En primer lugar vamos a instalar la extensión ***ESLint*** en el VS. Asimismo, instalaremos el compilador de TypeScript, para ello ejecutaremos:
+* A continuación, vamos a realizar nuestro primer mini proyecto en TypeScript. En primer lugar vamos a instalar la extensión ***ESLint*** en el VS. Asimismo, instalaremos el compilador de TypeScript desde la terminal de VS en la MV, para ello ejecutaremos:
 
     * npm install --global typescript
-    * Y para comprobar la vversión: tsc --version
+    * **Y para comprobar la versión:** tsc --version
 
 ![npm][npm]
 
