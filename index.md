@@ -2,7 +2,7 @@
 
 En esta segunda práctica, hemos configurado en nuestro entorno de trabajo el que va a ser nuestro **[IDE](https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado)** para la asignatura de Desarrollo de Sistemas Informáticos. Se trata de **[Visual Studio Code](https://code.visualstudio.com/)** (VSC), un editor de código desarrollado por Microsoft para distintos sistemas operativos. Lo que vamos a realizar es, mediante el protocolo SSH vamos a utilizar de manera remota el VSC que tendremos instalado en nuestra máquina local (ML), en nuestra máquina virtual (MV) del IaaS.
 
-Para acceder a la GitHub page: **[AQUÍ](https://ull-esit-inf-dsi-2021.github.io/ull-esit-inf-dsi-20-21-prct02-VSCcode-alu0101205908/)** 
+Para acceder a la GitHub page: **[AQUÍ](https://ull-esit-inf-dsi-2021.github.io/ull-esit-inf-dsi-20-21-prct02-VScode-alu0101205908/)** 
 
 
 ## Tareas iniciales:
