@@ -49,7 +49,29 @@ Para acceder a la GitHub page: **[AQUÍ](https://ull-esit-inf-dsi-2021.github.io
 
 ![Configuración compilador TS][tsconfig]
 
+* Ahora, crearemos en nuestro directorio *hello-world*, un subdirectorio *src* que va a ser donde tendremos el código fuente de TypeScript. Además crearemos el fichero index.ts y agregaremos las sigueintes líneas:
+
+let myString: string = "Hola Mundo";
+
+console.log(myString);
+
+* Compilamos  el código TS desde la terminal de VS:
+
+   * tsc index.ts
+
+* Esto nos creará un nuevo directorio, *dist*, y dentro de este directorio el fichero index.js, que contendrá el  mismo código que el fichero index.ts pero en JavaScrip. 
+
+![Diferencia TS y JS][diferencia]
+
+* Como podemos observar, la diferencia entre ambos ficheros es que la variable myString del fichero en TS está tipada (:string)
+
+* Por último, ejecutamos el código JS generado en el direcorio /dist:
+
+   * node dist/index.js
+
+
 [Hostname]: images/hostname.JPG "Hostname"
 [npm]: images/npm.JPG "npm"
 [npmInit]: images/npmInit.JPG "npm init"
 [tsconfig]: images/tsconfig&WS.JPG "Configuración compilador TS"
+[diferencia]: images/tsconfig&WS.JPG "Diferencia TS y JS"
