@@ -52,4 +52,4 @@ Para acceder a la GitHub page: **[AQUÍ](https://ull-esit-inf-dsi-2021.github.io
 [Hostname]: images/hostname.JPG "Hostname"
 [npm]: images/npm.JPG "npm"
 [npmInit]: images/npmInit.JPG "npm init"
-[tsconfig]: images/tsconfig.JPG "Configuración compilador TS"
+[tsconfig]: images/tsconfig&WS.JPG "Configuración compilador TS"
