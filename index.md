@@ -61,11 +61,11 @@ console.log(myString);
 
 * Esto nos creará un nuevo directorio, *dist*, y dentro de este directorio el fichero index.js, que contendrá el  mismo código que el fichero index.ts pero en JavaScrip. 
 
-![Diferencia TS y JS][diferencia]
-
 * Como podemos observar, la diferencia entre ambos ficheros es que la variable myString del fichero en TS está tipada (:string). Por último, ejecutamos el código JS generado en el direcorio /dist:
 
    * node dist/index.js
+
+![Diferencia TS y JS][diferencia]
 
 
 [Hostname]: images/hostname.JPG "Hostname"
