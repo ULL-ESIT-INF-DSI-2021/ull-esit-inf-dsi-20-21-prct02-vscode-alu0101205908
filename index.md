@@ -74,4 +74,4 @@ console.log(myString);
 [npm]: images/npm.JPG "npm"
 [npmInit]: images/npmInit.JPG "npm init"
 [tsconfig]: images/tsconfig&WS.JPG "Configuración compilador TS"
-[diferencia]: images/tsconfig&WS.JPG "Diferencia TS y JS"
+[diferencia]: images/diferencia.JPG "Diferencia TS y JS"
