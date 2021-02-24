@@ -59,7 +59,7 @@ console.log(myString);
 
    * tsc index.ts
 
-* Esto nos creará un nuevo directorio, *dist*, y dentro de este directorio el fichero index.js, que contendrá el  mismo código que el fichero index.ts pero en JavaScrip. 
+* Esto nos creará un nuevo directorio, *dist*, y dentro de este directorio el fichero index.js, que contendrá el  mismo código que el fichero index.ts pero en JavaScript. 
 
 * Como podemos observar, la diferencia entre ambos ficheros es que la variable myString del fichero en TS está tipada (:string). Por último, ejecutamos el código JS generado en el direcorio /dist:
 
