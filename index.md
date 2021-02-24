@@ -55,9 +55,9 @@ let myString: string = "Hola Mundo";
 
 console.log(myString);
 
-* Compilamos  el código TS desde la terminal de VSC:
+* Compilamos el código TS desde la terminal de VSC (fuera de /src):
 
-   * tsc index.ts
+   * tsc
 
 * Esto nos creará un nuevo directorio, *dist*, y dentro de este directorio el fichero index.js, que contendrá el  mismo código que el fichero index.ts pero en JavaScript. 
 
