@@ -11,7 +11,7 @@ Para acceder a la GitHub page: **[AQUÍ](https://ull-esit-inf-dsi-2021.github.io
 
   * borja@ubuntu:~$ sudo apt install code
 
-* En mi caso, ya lo tengo instalado, dado que me parece el mejor editor y entorno para programar cualquier lenguaje.
+* En mi caso, ya lo tengo instalado, dado que me parece un editor y entorno para programar muy bueno.
 
 
 ## Configuración de Visual Studio Code para conectarse a una máquina remota por SSH:
