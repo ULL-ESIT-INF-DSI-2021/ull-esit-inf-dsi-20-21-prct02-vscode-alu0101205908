@@ -68,6 +68,13 @@ console.log(myString);
 ![Diferencia TS y JS][diferencia]
 
 
+## Opcional:
+
+* He completado el siguiente curso: **[Curso GitHub Pages](https://lab.github.com/githubtraining/github-pages)**
+
+  * El repositorio de muestra está en: **[Mi cuenta de GitHub](https://github.com/borjaguanchesicilia/github-pages-with-jekyll)**
+
+
 [Hostname]: images/hostname.JPG "Hostname"
 [npm]: images/npm.JPG "npm"
 [npmInit]: images/npmInit.JPG "npm init"
