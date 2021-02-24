@@ -74,6 +74,8 @@ console.log(myString);
 
   * El repositorio de muestra está en: **[Mi cuenta de GitHub](https://github.com/borjaguanchesicilia/github-pages-with-jekyll)**
 
+* He completado el siguiente curso: **[Curso TypeScript Udemy](https://www.udemy.com/course/typescript-2020/)**
+
 
 ## Conclusión:
 
