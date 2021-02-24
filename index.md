@@ -18,7 +18,7 @@ Para acceder a la GitHub page: **[AQUÍ](https://ull-esit-inf-dsi-2021.github.io
 
 * Una vez tenemos el VS instalado en nuestra ML, tendremos que activar la VPN de la ULL, porque vamos a empezar a trabajar con la MV. Para realizar la configuración, debemos:
 
-   * Abrir el VS y pulsar la combinación **Ctrl * Shift * P**.
+   * Abrir el VS y pulsar la combinación **Ctrl + Shift + P**.
    * Tecleamos **ssh** y hacemos clic en **Connect to Host**.
 
    **NOTA:** Cabe destacar, que para que funcione debemos de haber realizado correctamente la configuración de los ficheros pertinentes tanto en la ML como en la MV que se vió en la **[práctica 1](https://ull-esit-inf-dsi-2021.github.io/ull-esit-inf-dsi-20-21-prct01-iaas-alu0101205908/)** 
