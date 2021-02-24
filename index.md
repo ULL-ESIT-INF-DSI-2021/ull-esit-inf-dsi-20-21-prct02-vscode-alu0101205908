@@ -75,6 +75,10 @@ console.log(myString);
   * El repositorio de muestra está en: **[Mi cuenta de GitHub](https://github.com/borjaguanchesicilia/github-pages-with-jekyll)**
 
 
+## Conclusión:
+
+* En esta práctica, hemos configurado el Visual Studio Code de nuestra máquina local para utilizarlo en nuestra máquina virtual. Es bastante curioso como podemos utilizar el protocolo SSH no solo en nuestra terminal de la máquina local (para acceder a nuestra máquina virtual), sino que poder emular que tenemos el VS en nuestra máquina virtual. Respecto a conceptos nuevos aprendidos están: la creación del espacio de trabajo, dado que yo ya era usuaro de VS, pero no me había percatado de que existía esta funcionalidad, asimismo, he aprendido a implementar un pequeño proyecto en VS, en este caso utilizando TypeScript. Además, de manera opcional y por aprender a utilizar las herramientas que vamos a utilizar en la asignatura, he completado el curso de GitHub Pages y un curso de TypeScript en Udemy que recomendó un compañero de clase, dado que estaba gratuito.
+
 [Hostname]: images/hostname.JPG "Hostname"
 [npm]: images/npm.JPG "npm"
 [npmInit]: images/npmInit.JPG "npm init"
