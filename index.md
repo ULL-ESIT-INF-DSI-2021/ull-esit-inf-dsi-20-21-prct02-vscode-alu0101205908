@@ -63,9 +63,7 @@ console.log(myString);
 
 ![Diferencia TS y JS][diferencia]
 
-* Como podemos observar, la diferencia entre ambos ficheros es que la variable myString del fichero en TS está tipada (:string)
-
-* Por último, ejecutamos el código JS generado en el direcorio /dist:
+* Como podemos observar, la diferencia entre ambos ficheros es que la variable myString del fichero en TS está tipada (:string). Por último, ejecutamos el código JS generado en el direcorio /dist:
 
    * node dist/index.js
 
